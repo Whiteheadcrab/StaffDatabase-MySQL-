@@ -11,5 +11,4 @@ Script #1
 Select names of workers and the sum of their salaries during last year if the sum of his/her salaries is more than 100000
 
 Script #2
-Select
- names of workers if at least one month salary from last year is less then 5000 and the year of worker is more that 50
+Select names of workers if at least one month salary from last year is less then 5000 and the year of worker is more that 50
